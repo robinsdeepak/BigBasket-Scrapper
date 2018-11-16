@@ -1,0 +1,13 @@
+[{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40119301_1-golden-prize-canned-sardine-in-tomato-sauce.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40119301_1-golden-prize-canned-sardine-in-tomato-sauce.jpg"}], "Brand": "Golden Prize", "Product": "Canned Sardine - in Tomato Sauce", "Quantity": "125 gm ", "Price": "Rs 75.05"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40037997_1-golden-prize-canned-sardine-in-brine.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40037997_1-golden-prize-canned-sardine-in-brine.jpg"}], "Brand": "Golden Prize", "Product": "Canned Sardine In Brine", "Quantity": "200 gm ", "Price": "Rs 103.55"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40037990_1-golden-prize-canned-skipjack-light-meat-tuna-chunk-in-brine.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40037990_1-golden-prize-canned-skipjack-light-meat-tuna-chunk-in-brine.jpg"}], "Brand": "Golden Prize", "Product": "Canned Skipjack Light Meat Tuna - Chunk In Brine", "Quantity": "185 gm ", "Price": "Rs 160.55"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40037992_2-golden-prize-canned-skipjack-light-meat-tuna-chunk-in-olive-oil.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40037992_2-golden-prize-canned-skipjack-light-meat-tuna-chunk-in-olive-oil.jpg"}], "Brand": "Golden Prize", "Product": "Canned Skipjack Light Meat Tuna - Chunk In Olive Oil", "Quantity": "185 gm ", "Price": "Rs 189.15"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40096822_2-golden-prize-canned-tuna-chunks-in-tomato-sauce.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40096822_2-golden-prize-canned-tuna-chunks-in-tomato-sauce.jpg"}], "Brand": "Golden Prize", "Product": "Canned Tuna Chunks in Tomato Sauce", "Quantity": "185 gm ", "Price": "Rs 160.55"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40124074_5-golden-prize-tuna-flakes-in-soya-bean-oil.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40124074_5-golden-prize-tuna-flakes-in-soya-bean-oil.jpg"}], "Brand": "Golden Prize", "Product": "Tuna Flakes - in Soya Bean Oil", "Quantity": "185 gm ", "Price": "Rs 141.55"},
+
+]

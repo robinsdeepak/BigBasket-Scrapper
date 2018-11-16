@@ -1,0 +1,41 @@
+[{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/295801_9-dove-hair-fall-rescue-shampoo.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/295801_9-dove-hair-fall-rescue-shampoo.jpg"}], "Brand": "Dove", "Product": "Hair fall Rescue Shampoo", "Quantity": "650 ml  - Rs 337.50", "Price": "Rs 337.50"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/1203522_1-dove-intense-repair-shampoo-650ml-bathing-bar-soap-cream-beauty-100g-pack-of-3.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/1203522_1-dove-intense-repair-shampoo-650ml-bathing-bar-soap-cream-beauty-100g-pack-of-3.jpg"}], "Brand": "Dove", "Product": "Intense Repair Shampoo 650ml + Bathing Bar Soap Cream Beauty 100G Pack of 3", "Quantity": "Combo 2 Items", "Price": "Rs 484.14"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/1202725_1-dove-hair-fall-rescue-shampoo-650-ml-conditioner-hair-fall-rescue-180-ml.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/1202725_1-dove-hair-fall-rescue-shampoo-650-ml-conditioner-hair-fall-rescue-180-ml.jpg"}], "Brand": "Dove", "Product": "Hair Fall Rescue Shampoo 650 ml + Conditioner - Hair Fall Rescue 180 ml", "Quantity": "Combo 2 Items", "Price": "Rs 367.12"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/1202699_1-indulekha-bhringa-hair-oil.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/1202699_1-indulekha-bhringa-hair-oil.jpg"}], "Brand": "Indulekha", "Product": "Bhringa Hair Oil", "Quantity": "2x100 ml Multipack - Rs 821.32", "Price": "Rs 821.32"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40002097_11-tresemme-shampoo-keratin-smooth-with-argan-oil.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40002097_11-tresemme-shampoo-keratin-smooth-with-argan-oil.jpg"}], "Brand": "TRESemme", "Product": "Shampoo - Keratin Smooth With Argan Oil", "Quantity": "580 ml  - Rs 328.00", "Price": "Rs 328"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/258358_2-bajaj-hair-oil-almond-drops.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/258358_2-bajaj-hair-oil-almond-drops.jpg"}], "Brand": "Bajaj", "Product": "Hair Oil - Almond Drops", "Quantity": "100 ml  - Rs 61.11", "Price": "Rs 61.11"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/20004217_3-parachute-coconut-oil-100-pure.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/20004217_3-parachute-coconut-oil-100-pure.jpg"}], "Brand": "Parachute ", "Product": "Coconut Oil - 100 % Pure", "Quantity": "100 ml Bottle", "Price": "Rs 37.83"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/268458_10-dove-intense-repair-shampoo.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/268458_10-dove-intense-repair-shampoo.jpg"}], "Brand": "Dove", "Product": "Intense Repair Shampoo", "Quantity": "650 ml  - Rs 337.50", "Price": "Rs 337.50"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/248215_2-parachute-coconut-oil-100-pure.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/248215_2-parachute-coconut-oil-100-pure.jpg"}], "Brand": "Parachute ", "Product": "Coconut Oil - 100% Pure", "Quantity": "1 L ", "Price": "Rs 388"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/278328_9-garnier-garnier-color-naturals-hair-colour-mini-shade-3-darkest-brown-30-ml.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/278328_9-garnier-garnier-color-naturals-hair-colour-mini-shade-3-darkest-brown-30-ml.jpg"}], "Brand": "Garnier", "Product": "Garnier Color Naturals Hair Colour Mini Shade 3, Darkest Brown 30 ml", "Quantity": "30 ml  - Rs 111.55", "Price": "Rs 111.55"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40013464_6-himalaya-anti-dandruff-shampoo.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40013464_6-himalaya-anti-dandruff-shampoo.jpg"}], "Brand": "Himalaya", "Product": "Anti-Dandruff Shampoo", "Quantity": "700 ml  - Rs 352.80", "Price": "Rs 352.80"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40009484_6-patanjali-kesh-kanti-milk-protein-hair-cleanser.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40009484_6-patanjali-kesh-kanti-milk-protein-hair-cleanser.jpg"}], "Brand": "Patanjali", "Product": "Kesh Kanti - Milk Protein Hair Cleanser", "Quantity": "200 ml ", "Price": "MRP: Rs 95"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/189103_5-garnier-garnier-color-naturals-hair-colour-regular-shade-1-natural-black-100-ml.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/189103_5-garnier-garnier-color-naturals-hair-colour-regular-shade-1-natural-black-100-ml.jpg"}], "Brand": "Garnier", "Product": "Garnier Color Naturals Hair Colour Regular Shade 1, Natural Black 100 ml", "Quantity": "100 ml ", "Price": "Rs 174.60"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/30002410_5-patanjali-kesh-kanti-anti-dandruff-hair-cleanser-shampoo.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/30002410_5-patanjali-kesh-kanti-anti-dandruff-hair-cleanser-shampoo.jpg"}], "Brand": "Patanjali", "Product": "Kesh Kanti - Anti-Dandruff Hair Cleanser Shampoo", "Quantity": "200 ml ", "Price": "MRP: Rs 110"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/216747_5-head-shoulder-anti-dandruff-shampoo-anti-hairfall.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/216747_5-head-shoulder-anti-dandruff-shampoo-anti-hairfall.jpg"}], "Brand": "Head & Shoulder", "Product": "Anti-Dandruff Shampoo - Anti Hairfall", "Quantity": "360 ml  - Rs 220.00", "Price": "Rs 220"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/100586897_7-tresemme-shampoo-smooth-shine.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/100586897_7-tresemme-shampoo-smooth-shine.jpg"}], "Brand": "TRESemme", "Product": "Shampoo - Smooth & Shine", "Quantity": "580 ml Bottle - Rs 300.00", "Price": "Rs 300"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/260632_3-loreal-paris-shampoo-total-repair-5.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/260632_3-loreal-paris-shampoo-total-repair-5.jpg"}], "Brand": "Loreal Paris", "Product": "Shampoo - Total Repair 5", "Quantity": "75 ml Bottle - Rs 58.20", "Price": "Rs 58.20"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40002074_4-sunsilk-perfect-straight-nourishing-conditioner.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40002074_4-sunsilk-perfect-straight-nourishing-conditioner.jpg"}], "Brand": "Sunsilk", "Product": "Perfect Straight Nourishing Conditioner", "Quantity": "180 ml ", "Price": "MRP: Rs 140"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40016313_3-patanjali-mehendi-herbal.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40016313_3-patanjali-mehendi-herbal.jpg"}], "Brand": "Patanjali", "Product": "Mehendi - Herbal", "Quantity": "100 gm ", "Price": "MRP: Rs 35"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/262974_5-dove-hair-fall-rescue-conditioner.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/262974_5-dove-hair-fall-rescue-conditioner.jpg"}], "Brand": "Dove", "Product": "Hair fall Rescue Conditioner", "Quantity": "180 ml  - Rs 152.00", "Price": "Rs 152"},
+
+]

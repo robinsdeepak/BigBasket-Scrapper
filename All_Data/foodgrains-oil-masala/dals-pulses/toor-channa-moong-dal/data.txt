@@ -1,0 +1,41 @@
+[{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/20000425_4-bb-popular-toorarhar-dal.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/20000425_4-bb-popular-toorarhar-dal.jpg"}], "Brand": "bb Popular", "Product": "Toor/Arhar Dal", "Quantity": "2 kg Pouch - Rs 176.00", "Price": "Rs 176"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40044731_4-bb-popular-moong-dal.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40044731_4-bb-popular-moong-dal.jpg"}], "Brand": "bb Popular", "Product": "Moong Dal", "Quantity": "2 kg Pouch - Rs 190.00", "Price": "Rs 190"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40042839_1-bb-popular-channa-dal.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40042839_1-bb-popular-channa-dal.jpg"}], "Brand": "bb Popular", "Product": "Channa Dal", "Quantity": "2 kg Pouch - Rs 147.00", "Price": "Rs 147"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/10000804_6-bb-royal-toor-dalarhar-dal-desi.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/10000804_6-bb-royal-toor-dalarhar-dal-desi.jpg"}], "Brand": "bb Royal", "Product": "Toor Dal/Arhar Dal - Desi", "Quantity": "2 kg Pouch - Rs 195.00", "Price": "Rs 195"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/70001282_2-bb-royal-channa-brown.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/70001282_2-bb-royal-channa-brown.jpg"}], "Brand": "bb Royal", "Product": "Channa - Brown", "Quantity": "1 kg Pouch - Rs 79.00", "Price": "Rs 79"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40072468_6-bb-royal-organic-chana-dalchanna.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40072468_6-bb-royal-organic-chana-dalchanna.jpg"}], "Brand": "bb Royal", "Product": "Organic - Chana Dal/Channa", "Quantity": "1 kg  - Rs 101.00", "Price": "Rs 101"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40053931_2-bb-royal-moong-dal.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40053931_2-bb-royal-moong-dal.jpg"}], "Brand": "bb Royal", "Product": "Moong Dal", "Quantity": "2 kg  - Rs 195.00", "Price": "Rs 195"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40003555_3-bb-popular-channa-kabuli.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40003555_3-bb-popular-channa-kabuli.jpg"}], "Brand": "bb Popular", "Product": "Channa - Kabuli", "Quantity": "200 gm Pouch - Rs 24.00", "Price": "Rs 24"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/1203902_1-bb-royal-moong-green-whole-500-gm-urad-dal-split-500-gm-channa-brown-500-gm.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/1203902_1-bb-royal-moong-green-whole-500-gm-urad-dal-split-500-gm-channa-brown-500-gm.jpg"}], "Brand": "bb Royal", "Product": "Moong - Green, Whole 500 gm + Urad Dal - Split 500 gm + Channa Brown 500 gm", "Quantity": "Combo 3 Item", "Price": "Rs 151"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40042838_3-bb-royal-channa-dal.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40042838_3-bb-royal-channa-dal.jpg"}], "Brand": "bb Royal", "Product": "Channa Dal", "Quantity": "2 kg Pouch - Rs 155.00", "Price": "Rs 155"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/20000437_5-bb-royal-green-moong-wholesabut.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/20000437_5-bb-royal-green-moong-wholesabut.jpg"}], "Brand": "bb Royal", "Product": "Green Moong Whole/Sabut", "Quantity": "1 kg Pouch - Rs 95.00", "Price": "Rs 95"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40000291_4-tata-sampann-toor-dal.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40000291_4-tata-sampann-toor-dal.jpg"}], "Brand": "Tata Sampann", "Product": "Toor Dal", "Quantity": "1 kg ", "Price": "Rs 79"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/10000801_6-bb-royal-channa-kabuli.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/10000801_6-bb-royal-channa-kabuli.jpg"}], "Brand": "bb Royal", "Product": "Channa - Kabuli", "Quantity": "200 gm Pouch - Rs 26.00", "Price": "Rs 26"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40109378_3-bb-royal-organic-moong-dal.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40109378_3-bb-royal-organic-moong-dal.jpg"}], "Brand": "bb Royal", "Product": "Organic - Moong Dal", "Quantity": "2 kg  - Rs 225.00", "Price": "Rs 225"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40075469_3-bb-royal-organic-turtoor-dal.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40075469_3-bb-royal-organic-turtoor-dal.jpg"}], "Brand": "bb Royal", "Product": "Organic - Tur/Toor Dal", "Quantity": "2 kg  - Rs 199.00", "Price": "Rs 199"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/20000543_3-bb-royal-channa-brown-small.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/20000543_3-bb-royal-channa-brown-small.jpg"}], "Brand": "bb Royal", "Product": "Channa Brown (Small)", "Quantity": "500 gm Pouch", "Price": "Rs 44"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/10000418_8-bb-royal-moong-green-splitchilka.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/10000418_8-bb-royal-moong-green-splitchilka.jpg"}], "Brand": "bb Royal", "Product": "Moong - Green, Split/Chilka", "Quantity": "500 gm Pouch", "Price": "Rs 65"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40072471_6-bb-royal-organic-green-moong-whole.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40072471_6-bb-royal-organic-green-moong-whole.jpg"}], "Brand": "bb Royal", "Product": "Organic - Green Moong Whole", "Quantity": "1 kg  - Rs 110.00", "Price": "Rs 110"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40097505_1-bb-royal-channa-brown-small.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40097505_1-bb-royal-channa-brown-small.jpg"}], "Brand": "bb Royal", "Product": "Channa - Brown Small", "Quantity": "1 kg ", "Price": "Rs 86"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/20005213_2-tata-sampann-moong-whole.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/20005213_2-tata-sampann-moong-whole.jpg"}], "Brand": "Tata Sampann", "Product": "Moong Whole", "Quantity": "500 gm ", "Price": "Rs 59"},
+
+]

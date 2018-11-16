@@ -1,0 +1,3 @@
+[{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/30010183_2-johns-mozzarella-pizza.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/30010183_2-johns-mozzarella-pizza.jpg"}], "Brand": "John's", "Product": "Mozzarella - Pizza", "Quantity": "200 gm Pouch", "Price": "Rs 179.45"},
+
+]

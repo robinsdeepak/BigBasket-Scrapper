@@ -1,0 +1,41 @@
+[{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40136258_5-roxx-alaska-glass-bowl-with-lid.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40136258_5-roxx-alaska-glass-bowl-with-lid.jpg"}], "Brand": "Roxx", "Product": "Alaska Glass Bowl With Lid", "Quantity": "2 pcs ", "Price": "Rs 89"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40136213_3-treo-bernard-scot-ice-bucket-with-tong-glassestumblers.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40136213_3-treo-bernard-scot-ice-bucket-with-tong-glassestumblers.jpg"}], "Brand": "Treo", "Product": "Bernard Scot Ice Bucket With Tong & Glasses/Tumblers", "Quantity": "7 pcs ", "Price": "Rs 449"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40136139_3-cello-borosilicate-mixing-bowl-set.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40136139_3-cello-borosilicate-mixing-bowl-set.jpg"}], "Brand": "Cello", "Product": "Borosilicate Mixing Bowl Set", "Quantity": "3 pcs ", "Price": "MRP: Rs 595"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40080354_4-lyra-dessert-bowl-destina.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40080354_4-lyra-dessert-bowl-destina.jpg"}], "Brand": "Lyra", "Product": "Dessert Bowl - Destina", "Quantity": "285 ml Pack of 6", "Price": "Rs 459"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40136257_4-roxx-fruits-nuts-storage-glass-bowl.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40136257_4-roxx-fruits-nuts-storage-glass-bowl.jpg"}], "Brand": "Roxx", "Product": "Fruits & Nuts Storage Glass Bowl", "Quantity": "2 pcs ", "Price": "Rs 89"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40136207_2-soogo-glass-bowl-set-bistro.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40136207_2-soogo-glass-bowl-set-bistro.jpg"}], "Brand": "Soogo", "Product": "Glass Bowl Set - Bistro", "Quantity": "2 pcs ", "Price": "Rs 99"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40136187_2-iveo-glass-bowl-set-violet.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40136187_2-iveo-glass-bowl-set-violet.jpg"}], "Brand": "Iveo ", "Product": "Glass Bowl Set - Violet", "Quantity": "2 pcs ", "Price": "Rs 139"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40136208_3-soogo-glass-fish-plate-small.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40136208_3-soogo-glass-fish-plate-small.jpg"}], "Brand": "Soogo", "Product": "Glass Fish Plate - Small", "Quantity": "1 pc ", "Price": "Rs 149"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40059964_3-pasabahce-lotus-small-dessert-bowl-set.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40059964_3-pasabahce-lotus-small-dessert-bowl-set.jpg"}], "Brand": "Pasabahce", "Product": "Lotus Small Dessert Bowl Set", "Quantity": "235 ml Pack of 6", "Price": "MRP: Rs 780"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40136189_2-iveo-melamine-nappy-bowl-combo-set-assorted-color.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40136189_2-iveo-melamine-nappy-bowl-combo-set-assorted-color.jpg"}], "Brand": "Iveo ", "Product": "Melamine Nappy Bowl Combo Set - Assorted Color", "Quantity": "250 gms Pack of 3", "Price": "Rs 169"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40136177_2-iveo-melamine-noodle-bowl-green.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40136177_2-iveo-melamine-noodle-bowl-green.jpg"}], "Brand": "Iveo ", "Product": "Melamine Noodle Bowl - Green", "Quantity": "250 ml ", "Price": "Rs 79"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40136178_2-iveo-melamine-noodle-bowl-red.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40136178_2-iveo-melamine-noodle-bowl-red.jpg"}], "Brand": "Iveo ", "Product": "Melamine Noodle Bowl - Red", "Quantity": "250 ml ", "Price": "Rs 79"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40136179_2-iveo-melamine-popcorn-bowl-green.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40136179_2-iveo-melamine-popcorn-bowl-green.jpg"}], "Brand": "Iveo ", "Product": "Melamine Popcorn Bowl - Green", "Quantity": "1 pc ", "Price": "Rs 79"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40136180_2-iveo-melamine-popcorn-bowl-red.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40136180_2-iveo-melamine-popcorn-bowl-red.jpg"}], "Brand": "Iveo ", "Product": "Melamine Popcorn Bowl - Red", "Quantity": "1 pc ", "Price": "Rs 79"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40136175_2-iveo-melamine-soup-bowl-with-spoon-green.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40136175_2-iveo-melamine-soup-bowl-with-spoon-green.jpg"}], "Brand": "Iveo ", "Product": "Melamine Soup Bowl With Spoon - Green", "Quantity": "150 ml ", "Price": "Rs 79"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40136176_2-iveo-melamine-soup-bowl-with-spoon-red.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40136176_2-iveo-melamine-soup-bowl-with-spoon-red.jpg"}], "Brand": "Iveo ", "Product": "Melamine Soup Bowl With Spoon - Red", "Quantity": "150 ml ", "Price": "Rs 79"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40136206_3-soogo-samara-glass-bowl.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40136206_3-soogo-samara-glass-bowl.jpg"}], "Brand": "Soogo", "Product": "Samara Glass Bowl", "Quantity": "540 ml ", "Price": "Rs 99"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40114521_1-wood-kemp-soup-bowl-mariya-melamine-m2.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40114521_1-wood-kemp-soup-bowl-mariya-melamine-m2.jpg"}], "Brand": "Wood & Kemp", "Product": "Soup Bowl - Mariya Melamine, M2", "Quantity": "1 pc ", "Price": "Rs 35"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40114522_1-wood-kemp-soup-bowl-mariya-melamine-m3.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40114522_1-wood-kemp-soup-bowl-mariya-melamine-m3.jpg"}], "Brand": "Wood & Kemp", "Product": "Soup Bowl - Mariya Melamine, M3", "Quantity": "1 pc ", "Price": "Rs 35"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40114523_1-wood-kemp-soup-bowl-mariya-melamine-m7.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40114523_1-wood-kemp-soup-bowl-mariya-melamine-m7.jpg"}], "Brand": "Wood & Kemp", "Product": "Soup Bowl - Mariya Melamine, M7", "Quantity": "1 pc ", "Price": "Rs 35"},
+
+]

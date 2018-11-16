@@ -1,0 +1,5 @@
+[{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/253557_3-himalayan-natural-mineral-water.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/253557_3-himalayan-natural-mineral-water.jpg"}], "Brand": "Himalayan", "Product": "Natural Mineral Water", "Quantity": "1 L Bottle", "Price": "Rs 57.23"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/280459_2-himalayan-natural-mineral-water.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/280459_2-himalayan-natural-mineral-water.jpg"}], "Brand": "Himalayan", "Product": "Natural Mineral Water", "Quantity": "200 ml Bottle", "Price": "Rs 16.49"},
+
+]

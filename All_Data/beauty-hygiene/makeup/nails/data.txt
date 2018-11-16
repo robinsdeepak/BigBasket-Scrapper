@@ -1,0 +1,3 @@
+[{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/281185_9-lakme-nail-color-remover.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/281185_9-lakme-nail-color-remover.jpg"}], "Brand": "Lakme", "Product": "Nail Color Remover", "Quantity": "27 ml ", "Price": "Rs 87.30"},
+
+]

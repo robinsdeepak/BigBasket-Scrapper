@@ -1,0 +1,37 @@
+[{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40125947_4-gits-ready-meals-dal-palak.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40125947_4-gits-ready-meals-dal-palak.jpg"}], "Brand": "Gits", "Product": "Ready Meals - Dal Palak", "Quantity": "300 gm ", "Price": "Rs 72.75"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40125944_4-gits-ready-meals-paneer-makhani.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40125944_4-gits-ready-meals-paneer-makhani.jpg"}], "Brand": "Gits", "Product": "Ready Meals - Paneer Makhani", "Quantity": "285 gm ", "Price": "Rs 96.03"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40125949_4-gits-ready-meals-punjabi-kadhi.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40125949_4-gits-ready-meals-punjabi-kadhi.jpg"}], "Brand": "Gits", "Product": "Ready Meals - Punjabi Kadhi", "Quantity": "300 gm ", "Price": "Rs 82.45"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40125945_4-gits-ready-meals-veg-pulao.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40125945_4-gits-ready-meals-veg-pulao.jpg"}], "Brand": "Gits", "Product": "Ready Meals - Veg Pulao", "Quantity": "265 gm ", "Price": "Rs 82.45"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40001431_2-mtr-mix-khaman-dhokla.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40001431_2-mtr-mix-khaman-dhokla.jpg"}], "Brand": "MTR", "Product": "Mix - Khaman Dhokla", "Quantity": "180 gm Pouch", "Price": "Rs 50.44"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/266548_9-knorr-gravy-mix-chinese-schezuan-serves-4.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/266548_9-knorr-gravy-mix-chinese-schezuan-serves-4.jpg"}], "Brand": "Knorr", "Product": "Gravy Mix - Chinese Schezuan, Serves 4", "Quantity": "49 gm ", "Price": "Rs 48.50"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/100006780_5-aashirvaad-ready-meals-dal-makhani.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/100006780_5-aashirvaad-ready-meals-dal-makhani.jpg"}], "Brand": "Aashirvaad", "Product": "Ready Meals - Dal Makhani", "Quantity": "285 gm Carton", "Price": "Rs 87.30"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/100112466_4-gits-ready-meals-dal-tadka.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/100112466_4-gits-ready-meals-dal-tadka.jpg"}], "Brand": "Gits", "Product": "Ready Meals - Dal Tadka", "Quantity": "300 gm Carton", "Price": "Rs 72.75"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/100112468_4-gits-ready-meals-pau-bhaji.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/100112468_4-gits-ready-meals-pau-bhaji.jpg"}], "Brand": "Gits", "Product": "Ready Meals - Pau Bhaji", "Quantity": "300 gm Carton", "Price": "Rs 82.45"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/100123453_4-gits-ready-meals-punjabi-chhole-medium.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/100123453_4-gits-ready-meals-punjabi-chhole-medium.jpg"}], "Brand": "Gits", "Product": "Ready Meals - Punjabi Chhole (Medium)", "Quantity": "300 gm Carton", "Price": "Rs 82.45"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/100123452_3-gits-ready-meals-rajma-masala.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/100123452_3-gits-ready-meals-rajma-masala.jpg"}], "Brand": "Gits", "Product": "Ready Meals - Rajma Masala", "Quantity": "300 gm Carton", "Price": "Rs 82.45"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/100112474_4-gits-ready-meals-veg-biryani.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/100112474_4-gits-ready-meals-veg-biryani.jpg"}], "Brand": "Gits", "Product": "Ready Meals - Veg. Biryani", "Quantity": "265 gm Carton", "Price": "Rs 82.45"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/265983_1-mtr-ready-to-eat-dal-makhani.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/265983_1-mtr-ready-to-eat-dal-makhani.jpg"}], "Brand": "MTR", "Product": "Ready To Eat - Dal Makhani", "Quantity": "300 gm Carton", "Price": "Rs 87.30"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40001476_1-mtr-ready-to-eat-muttar-paneer.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40001476_1-mtr-ready-to-eat-muttar-paneer.jpg"}], "Brand": "MTR", "Product": "Ready To Eat - Muttar Paneer", "Quantity": "300 gm Carton", "Price": "Rs 92.15"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40001481_1-mtr-ready-to-eat-shahi-paneer.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40001481_1-mtr-ready-to-eat-shahi-paneer.jpg"}], "Brand": "MTR", "Product": "Ready To Eat - Shahi Paneer", "Quantity": "300 gm Carton", "Price": "Rs 92.15"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/30009234_3-gits-ready-meal-dal-makhani-no-onion-no-garlic.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/30009234_3-gits-ready-meal-dal-makhani-no-onion-no-garlic.jpg"}], "Brand": "Gits", "Product": "Ready Meal - Dal Makhani (No Onion No Garlic)", "Quantity": "300 gm Box", "Price": "Rs 82.45"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/100112471_4-gits-ready-meals-palak-paneer.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/100112471_4-gits-ready-meals-palak-paneer.jpg"}], "Brand": "Gits", "Product": "Ready Meals - Palak Paneer", "Quantity": "285 gm Carton", "Price": "Rs 96.03"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/100112473_3-gits-ready-meals-paneer-tikka-masala.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/100112473_3-gits-ready-meals-paneer-tikka-masala.jpg"}], "Brand": "Gits", "Product": "Ready Meals - Paneer Tikka Masala", "Quantity": "285 gm Carton", "Price": "Rs 94.05"},
+
+]

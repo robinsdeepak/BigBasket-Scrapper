@@ -1,0 +1,7 @@
+[{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40112227_11-fresho-organic-cow-ghee.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40112227_11-fresho-organic-cow-ghee.jpg"}], "Brand": "Fresho Organic", "Product": "Cow Ghee", "Quantity": "150 ml  - Rs125.00", "Price": "Rs 125"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40112228_8-fresho-organic-cow-ghee.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40112228_8-fresho-organic-cow-ghee.jpg"}], "Brand": "Fresho Organic", "Product": "Cow Ghee", "Quantity": "500 ml  - Rs299.00", "Price": "Rs 299"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40112229_8-fresho-organic-cow-ghee.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40112229_8-fresho-organic-cow-ghee.jpg"}], "Brand": "Fresho Organic", "Product": "Cow Ghee", "Quantity": "1 ltr ", "Price": "Rs 569"},
+
+]

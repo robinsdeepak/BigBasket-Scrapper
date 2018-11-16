@@ -1,0 +1,9 @@
+[{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40067897_2-happydent-chewing-gum-white-xylit-sugarfree.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40067897_2-happydent-chewing-gum-white-xylit-sugarfree.jpg"}], "Brand": "Happydent ", "Product": "Chewing Gum - White Xylit, Sugarfree", "Quantity": "6.6 gm  - Rs 4.85", "Price": "Rs 4.85"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40080967_4-wrigleys-orbit-chewing-gum-spearmint-sugarfree.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40080967_4-wrigleys-orbit-chewing-gum-spearmint-sugarfree.jpg"}], "Brand": "Wrigleys", "Product": "Orbit Chewing Gum - Spearmint, Sugarfree", "Quantity": "22 gm ", "Price": "Rs 48.50"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40016430_5-happydent-chewing-gum-complete-peppermint.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40016430_5-happydent-chewing-gum-complete-peppermint.jpg"}], "Brand": "Happydent ", "Product": "Chewing Gum - Complete, Peppermint", "Quantity": "27.5 gm Bottle - Rs 38.80", "Price": "Rs 38.80"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40016431_5-happydent-chewing-gum-complete-spearmint-xylitol.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40016431_5-happydent-chewing-gum-complete-spearmint-xylitol.jpg"}], "Brand": "Happydent ", "Product": "Chewing Gum - Complete, Spearmint, Xylitol", "Quantity": "27.5 gm Bottle - Rs 38.80", "Price": "Rs 38.80"},
+
+]

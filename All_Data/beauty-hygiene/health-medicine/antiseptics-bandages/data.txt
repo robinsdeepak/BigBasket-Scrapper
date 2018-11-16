@@ -1,0 +1,13 @@
+[{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/208013_2-savlon-antiseptic.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/208013_2-savlon-antiseptic.jpg"}], "Brand": "Savlon", "Product": "Antiseptic", "Quantity": "1 ltr  - Rs 245.41", "Price": "Rs 245.41"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/282995_1-johnson-johnson-band-aid-flexi-antiseptic.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/282995_1-johnson-johnson-band-aid-flexi-antiseptic.jpg"}], "Brand": "Johnson & Johnson", "Product": "Band Aid Flexi - Antiseptic", "Quantity": "100 pcs ", "Price": "Rs 194"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/20004209_2-johnson-johnson-band-aid-washproof.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/20004209_2-johnson-johnson-band-aid-washproof.jpg"}], "Brand": "Johnson & Johnson", "Product": "Band-Aid - Washproof", "Quantity": "10 pcs ", "Price": "Rs 24.25"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40114368_4-dettol-disinfectant-hygiene-liquid-multi-use-menthol-cool.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40114368_4-dettol-disinfectant-hygiene-liquid-multi-use-menthol-cool.jpg"}], "Brand": "Dettol", "Product": "Disinfectant Hygiene Liquid - Multi-Use, Menthol Cool", "Quantity": "200  ml ", "Price": "Rs 66.40"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/30010278_1-boroline-suthol-antiseptic-skin-liquid-chandan-plus.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/30010278_1-boroline-suthol-antiseptic-skin-liquid-chandan-plus.jpg"}], "Brand": "Boroline", "Product": "Suthol Antiseptic - Skin Liquid (Chandan Plus)", "Quantity": "100 ml Bottle", "Price": "Rs 44.62"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/253539_3-dettol-antiseptic-liquid-germ-protection.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/253539_3-dettol-antiseptic-liquid-germ-protection.jpg"}], "Brand": "Dettol", "Product": "Antiseptic Liquid - Germ Protection", "Quantity": "210 ml  - Rs 62.03", "Price": "Rs 62.03"},
+
+]

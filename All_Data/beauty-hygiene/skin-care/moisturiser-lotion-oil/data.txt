@@ -1,0 +1,41 @@
+[{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/255874_12-vaseline-intensive-care-deep-restore-body-lotion.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/255874_12-vaseline-intensive-care-deep-restore-body-lotion.jpg"}], "Brand": "Vaseline", "Product": "Intensive Care Deep Restore Body Lotion", "Quantity": "100 ml Bottle - Rs 70.55", "Price": "Rs 70.55"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40118800_15-vaseline-body-lotion-intensive-care-deep-restore.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40118800_15-vaseline-body-lotion-intensive-care-deep-restore.jpg"}], "Brand": "Vaseline", "Product": "Body Lotion - Intensive Care Deep Restore", "Quantity": "400 ml ", "Price": "Rs 186.40"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40077746_1-patanjali-body-cleanser-saundarya-sandal.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40077746_1-patanjali-body-cleanser-saundarya-sandal.jpg"}], "Brand": "Patanjali", "Product": "Body Cleanser - Saundarya Sandal", "Quantity": "75 gm ", "Price": "MRP: Rs 35"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40081424_2-bio-oil-specialist-skin-care-oil-scars-stretch-mark-ageing-uneven-skin-tone.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40081424_2-bio-oil-specialist-skin-care-oil-scars-stretch-mark-ageing-uneven-skin-tone.jpg"}], "Brand": "Bio-Oil", "Product": "Specialist Skin Care Oil - Scars, Stretch Mark, Ageing, Uneven Skin Tone", "Quantity": "125 ml  - Rs 516.00", "Price": "Rs 516"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40042299_3-vaseline-body-lotion-intensive-care-advanced-repair.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40042299_3-vaseline-body-lotion-intensive-care-advanced-repair.jpg"}], "Brand": "Vaseline", "Product": "Body Lotion - Intensive Care Advanced Repair", "Quantity": "300 ml  - Rs 224.00", "Price": "Rs 224"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40016331_2-patanjali-tejus-body-lotion.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40016331_2-patanjali-tejus-body-lotion.jpg"}], "Brand": "Patanjali", "Product": "Tejus - Body Lotion", "Quantity": "100 ml ", "Price": "MRP: Rs 60"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40002103_6-vaseline-intensive-care-deep-restore-body-lotion.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40002103_6-vaseline-intensive-care-deep-restore-body-lotion.jpg"}], "Brand": "Vaseline", "Product": "Intensive Care Deep Restore Body Lotion", "Quantity": "200 ml ", "Price": "Rs 148"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40114563_2-khadi-natural-aloevera-gel-green.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40114563_2-khadi-natural-aloevera-gel-green.jpg"}], "Brand": "Khadi Natural", "Product": "Aloevera Gel - Green", "Quantity": "200 gm ", "Price": "Rs 174.60"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40100882_2-delon-body-butter-with-argan-oil.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40100882_2-delon-body-butter-with-argan-oil.jpg"}], "Brand": "DELON", "Product": "Body Butter - With Argan Oil", "Quantity": "200 ml ", "Price": "Rs 969.03"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40100880_1-delon-body-butter-with-avocado-oil.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40100880_1-delon-body-butter-with-avocado-oil.jpg"}], "Brand": "DELON", "Product": "Body Butter - With Avocado Oil", "Quantity": "200 ml ", "Price": "Rs 872.03"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40079228_4-soulflower-coldpressed-sesame-carrier-oil.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40079228_4-soulflower-coldpressed-sesame-carrier-oil.jpg"}], "Brand": "Soulflower", "Product": "Coldpressed Sesame Carrier Oil", "Quantity": "225 ml ", "Price": "Rs 297.50"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40127428_1-ponds-derma-hydrating-day-gel-flawless-radiance-spf-15-pa.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40127428_1-ponds-derma-hydrating-day-gel-flawless-radiance-spf-15-pa.jpg"}], "Brand": "Ponds", "Product": "Derma + Hydrating Day Gel - Flawless Radiance, SPF 15, PA++", "Quantity": "50 gm ", "Price": "Rs 658.63"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40127429_1-ponds-light-moisturiser-all-seasons-non-oily-fresh-glow.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40127429_1-ponds-light-moisturiser-all-seasons-non-oily-fresh-glow.jpg"}], "Brand": "Ponds", "Product": "Light Moisturiser All seasons, Non Oily, Fresh Glow", "Quantity": "75 ml ", "Price": "Rs 111.55"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40127430_1-ponds-light-moisturiser-all-seasons-non-oily-fresh-glow.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40127430_1-ponds-light-moisturiser-all-seasons-non-oily-fresh-glow.jpg"}], "Brand": "Ponds", "Product": "Light Moisturiser All seasons, Non Oily, Fresh Glow", "Quantity": "150 ml ", "Price": "Rs 193.03"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40100886_1-delon-moisturising-lotion-organic-now.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40100886_1-delon-moisturising-lotion-organic-now.jpg"}], "Brand": "DELON", "Product": "Moisturising Lotion - Organic Now", "Quantity": "325 ml ", "Price": "Rs 678.03"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/20005439_1-drbatras-moisturzing-cream-intense.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/20005439_1-drbatras-moisturzing-cream-intense.jpg"}], "Brand": "Dr.Batra'S", "Product": "Moisturzing Cream - Intense", "Quantity": "100 gm ", "Price": "Rs 339.50"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40016812_3-nivea-q10-body-lotion-firming.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40016812_3-nivea-q10-body-lotion-firming.jpg"}], "Brand": "Nivea", "Product": "Q10 Body Lotion - Firming", "Quantity": "250 ml ", "Price": "Rs 266.75"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40100887_6-delon-skin-lotion-aloe-vera.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40100887_6-delon-skin-lotion-aloe-vera.jpg"}], "Brand": "DELON", "Product": "Skin Lotion - Aloe Vera", "Quantity": "591 ml ", "Price": "Rs 532.53"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40079158_2-soulflower-tea-tree-essential-oil.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40079158_2-soulflower-tea-tree-essential-oil.jpg"}], "Brand": "Soulflower", "Product": "Tea Tree Essential Oil", "Quantity": "15 ml ", "Price": "Rs 436.50"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40111261_2-the-body-shop-tea-tree-mattifying-lotion.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40111261_2-the-body-shop-tea-tree-mattifying-lotion.jpg"}], "Brand": "The Body Shop", "Product": "Tea Tree Mattifying Lotion", "Quantity": "50 ml ", "Price": "Rs 868.15"},
+
+]

@@ -1,0 +1,33 @@
+[{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40109164_1-cornitos-nacho-crisps-cheesy-sour-cream-onion.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40109164_1-cornitos-nacho-crisps-cheesy-sour-cream-onion.jpg"}], "Brand": "Cornitos", "Product": "Nacho Crisps - Cheesy Sour Cream & Onion", "Quantity": "60 gm ", "Price": "Rs 33.95"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/1200716_2-cornitos-nacho-crisps-barbeque.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/1200716_2-cornitos-nacho-crisps-barbeque.jpg"}], "Brand": "Cornitos", "Product": "Nacho Crisps - Barbeque", "Quantity": "2x60 gm Multipack - Rs 65.86", "Price": "Rs 65.86"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/1200698_2-cornitos-nacho-crisps-cheese-herbs.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/1200698_2-cornitos-nacho-crisps-cheese-herbs.jpg"}], "Brand": "Cornitos", "Product": "Nacho Crisps - Cheese & Herbs", "Quantity": "2x60 gm Multipack - Rs 65.86", "Price": "Rs 65.86"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/1200737_1-cornitos-nacho-crisps-cheese-and-herbs.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/1200737_1-cornitos-nacho-crisps-cheese-and-herbs.jpg"}], "Brand": "Cornitos", "Product": "Nacho Crisps - Cheese And Herbs", "Quantity": "2x150 gm Multipack - Rs 159.96", "Price": "Rs 159.96"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/1200695_2-cornitos-nacho-crisps-lime-n-mint.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/1200695_2-cornitos-nacho-crisps-lime-n-mint.jpg"}], "Brand": "Cornitos", "Product": "Nacho Crisps - Lime N Mint", "Quantity": "2x60 gm Multipack - Rs 65.86", "Price": "Rs 65.86"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/1200728_1-cornitos-nacho-crisps-peri-peri.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/1200728_1-cornitos-nacho-crisps-peri-peri.jpg"}], "Brand": "Cornitos", "Product": "Nacho Crisps - Peri Peri", "Quantity": "2x60 gm Multipack - Rs 65.86", "Price": "Rs 65.86"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/30007079_1-cornitos-nacho-crisps-premio-thal-sweet-chilli.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/30007079_1-cornitos-nacho-crisps-premio-thal-sweet-chilli.jpg"}], "Brand": "Cornitos", "Product": "Nacho Crisps - Premio Thal Sweet Chilli", "Quantity": "60 gm ", "Price": "Rs 33.95"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/1200746_1-cornitos-nacho-crisps-tikka-masala.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/1200746_1-cornitos-nacho-crisps-tikka-masala.jpg"}], "Brand": "Cornitos", "Product": "Nacho Crisps - Tikka Masala", "Quantity": "2x60 gm Multipack - Rs 65.86", "Price": "Rs 65.86"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/1200707_2-cornitos-nacho-crisps-tomato-mexicana.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/1200707_2-cornitos-nacho-crisps-tomato-mexicana.jpg"}], "Brand": "Cornitos", "Product": "Nacho Crisps - Tomato Mexicana", "Quantity": "2x60 gm Multipack - Rs 65.86", "Price": "Rs 65.86"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/1205158_1-pringles-potato-crisps-south-african-style-peri-peri-flavour.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/1205158_1-pringles-potato-crisps-south-african-style-peri-peri-flavour.jpg"}], "Brand": "Pringles", "Product": "Potato Crisps - South African Style Peri Peri Flavour", "Quantity": "2x110 gm Multipack - Rs 198.00", "Price": "MRP: Rs 198"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/1205159_1-pringles-potato-crisps-spanish-style-jalapeno-cheese-flavour.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/1205159_1-pringles-potato-crisps-spanish-style-jalapeno-cheese-flavour.jpg"}], "Brand": "Pringles", "Product": "Potato Crisps - Spanish Style Jalapeno Cheese Flavour", "Quantity": "2x110 gm Multipack - Rs 198.00", "Price": "MRP: Rs 198"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/1201419_1-lays-classic-salted-95g-spanish-tomato-tango-95g-american-style-cream-onion-95g.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/1201419_1-lays-classic-salted-95g-spanish-tomato-tango-95g-american-style-cream-onion-95g.jpg"}], "Brand": "Lays", "Product": "Classic Salted 95G + Spanish Tomato Tango 95G + American Style Cream & Onion 95G", "Quantity": "Combo 3 Items", "Price": "Rs 86.91"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/1200734_1-cornitos-exotic-flavor-nachos-salsa-combo.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/1200734_1-cornitos-exotic-flavor-nachos-salsa-combo.jpg"}], "Brand": "Cornitos", "Product": "Exotic Flavor Nachos & Salsa Combo", "Quantity": "2x140 gm Multipack", "Price": "Rs 126.10"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/1200701_2-cornitos-nacho-crisps-sea-salt.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/1200701_2-cornitos-nacho-crisps-sea-salt.jpg"}], "Brand": "Cornitos", "Product": "Nacho Crisps - Sea Salt", "Quantity": "2x150 gm Multipack", "Price": "Rs 164.90"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/1200704_2-cornitos-nacho-crisps-thai-sweet-chili.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/1200704_2-cornitos-nacho-crisps-thai-sweet-chili.jpg"}], "Brand": "Cornitos", "Product": "Nacho Crisps - Thai Sweet Chili", "Quantity": "2x150 gm Multipack", "Price": "Rs 164.90"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/1200710_2-cornitos-nacho-crisps-wasabi.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/1200710_2-cornitos-nacho-crisps-wasabi.jpg"}], "Brand": "Cornitos", "Product": "Nacho Crisps - Wasabi", "Quantity": "2x150 gm Multipack", "Price": "Rs 164.90"},
+
+]

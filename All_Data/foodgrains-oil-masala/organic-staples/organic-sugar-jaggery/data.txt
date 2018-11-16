@@ -1,0 +1,19 @@
+[{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40091135_3-bb-royal-organic-brown-sugar.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40091135_3-bb-royal-organic-brown-sugar.jpg"}], "Brand": "bb Royal", "Product": "Organic - Brown Sugar", "Quantity": "2 kg  - Rs 160.00", "Price": "Rs 160"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/1203575_2-bb-combo-bb-royal-organic-brown-sugar-1-kg-fresho-organic-cow-ghee-150-ml.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/1203575_2-bb-combo-bb-royal-organic-brown-sugar-1-kg-fresho-organic-cow-ghee-150-ml.jpg"}], "Brand": "bb Combo", "Product": "BB Royal Organic - Brown Sugar 1 kg + Fresho Organic Cow Ghee 150 ml", "Quantity": "Combo 2 Items", "Price": "Rs 208"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40072482_7-bb-royal-organic-powder-jaggery.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40072482_7-bb-royal-organic-powder-jaggery.jpg"}], "Brand": "bb Royal", "Product": "Organic - Powder Jaggery", "Quantity": "500 gm  - Rs 46.00", "Price": "Rs 46"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40072492_7-bb-royal-organic-sugar.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40072492_7-bb-royal-organic-sugar.jpg"}], "Brand": "bb Royal", "Product": "Organic - Sugar", "Quantity": "1 kg  - Rs 81.00", "Price": "Rs 81"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40092211_2-bb-royal-organic-misri-wholesugar-candy.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40092211_2-bb-royal-organic-misri-wholesugar-candy.jpg"}], "Brand": "bb Royal", "Product": "Organic - Misri Whole/Sugar Candy", "Quantity": "100 gm ", "Price": "Rs 16"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40082788_1-bb-royal-powder-natural-rocksalt.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40082788_1-bb-royal-powder-natural-rocksalt.jpg"}], "Brand": "bb Royal", "Product": "Powder - Natural Rocksalt", "Quantity": "500 gm ", "Price": "Rs 28"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/279807_4-24-mantra-natural-sugar-sulphurless.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/279807_4-24-mantra-natural-sugar-sulphurless.jpg"}], "Brand": "24 Mantra", "Product": "Natural Sugar - Sulphurless", "Quantity": "500 gm Pouch", "Price": "Rs 55"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40072473_6-bb-royal-organic-jaggery.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40072473_6-bb-royal-organic-jaggery.jpg"}], "Brand": "bb Royal", "Product": "Organic - Jaggery", "Quantity": "400 gm  - Rs42.00", "Price": "Rs 42"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/1203572_2-bb-combo-bb-royal-organic-jaggery-400-gm-fresho-organic-cow-ghee-150-ml.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/1203572_2-bb-combo-bb-royal-organic-jaggery-400-gm-fresho-organic-cow-ghee-150-ml.jpg"}], "Brand": "bb Combo", "Product": "BB Royal Organic - Jaggery 400 gm + Fresho Organic Cow Ghee 150 ml", "Quantity": "Combo 2 Items", "Price": "Rs 167"},
+
+]

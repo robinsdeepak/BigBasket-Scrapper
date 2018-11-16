@@ -1,0 +1,41 @@
+[{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/266945_16-surf-excel-easy-wash-detergent-powder.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/266945_16-surf-excel-easy-wash-detergent-powder.jpg"}], "Brand": "Surf Excel", "Product": "Easy Wash Detergent Powder", "Quantity": "1.5 kg  - Rs 158.00", "Price": "Rs 158"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40006995_4-godrej-ezee-detergent-liquid.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40006995_4-godrej-ezee-detergent-liquid.jpg"}], "Brand": "Godrej", "Product": "Ezee  Detergent Liquid", "Quantity": "500 gm  - Rs 87.30", "Price": "Rs 87.30"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/1201967_1-bb-combo-ariel-matic-top-load-2kg-whisper-ultra-night-extra-heavy-flow-xxxl-3pcs.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/1201967_1-bb-combo-ariel-matic-top-load-2kg-whisper-ultra-night-extra-heavy-flow-xxxl-3pcs.jpg"}], "Brand": "bb Combo", "Product": "Ariel Matic Top Load 2kg + Whisper Ultra Night Extra Heavy Flow XXXL 3pcs", "Quantity": "Combo 2 Items", "Price": "Rs 382.16"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/1201862_1-bb-combo-ariel-washing-detergent-powder-matic-front-load-2kgwhisper-ultra-clean-xl-30pcs.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/1201862_1-bb-combo-ariel-washing-detergent-powder-matic-front-load-2kgwhisper-ultra-clean-xl-30pcs.jpg"}], "Brand": "bb Combo", "Product": "Ariel Washing Detergent Powder Matic Front Load 2kg+Whisper Ultra Clean XL 30pcs", "Quantity": "Combo 2 Items", "Price": "Rs 615.73"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/207172_12-tide-plus-detergent-washing-powder-extra-power-jasmine-rose.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/207172_12-tide-plus-detergent-washing-powder-extra-power-jasmine-rose.jpg"}], "Brand": "Tide", "Product": "Plus Detergent Washing Powder - Extra Power Jasmine & Rose", "Quantity": "4 kg  - Rs 365.66", "Price": "Rs 365.66"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/266953_12-surf-excel-quick-wash-detergent-powder.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/266953_12-surf-excel-quick-wash-detergent-powder.jpg"}], "Brand": "Surf Excel", "Product": "Quick Wash Detergent Powder", "Quantity": "1 kg  - Rs 164.90", "Price": "Rs 164.90"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40097084_5-ariel-detergent-washing-powder-matic-top-load.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40097084_5-ariel-detergent-washing-powder-matic-top-load.jpg"}], "Brand": "Ariel ", "Product": "Detergent Washing Powder - Matic Top Load", "Quantity": "2 kg  - Rs 314.30", "Price": "Rs 314.30"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/212128_22-surf-excel-matic-top-load-detergent-powder.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/212128_22-surf-excel-matic-top-load-detergent-powder.jpg"}], "Brand": "Surf Excel", "Product": "Matic Top Load Detergent Powder", "Quantity": "2 kg  - Rs 315.00", "Price": "Rs 315"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/263838_13-tide-plus-detergent-washing-powder-extra-power-lemon-mint.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/263838_13-tide-plus-detergent-washing-powder-extra-power-lemon-mint.jpg"}], "Brand": "Tide", "Product": "Plus Detergent Washing Powder - Extra Power Lemon & Mint", "Quantity": "1 kg ", "Price": "Rs 95.06"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/274109_17-tide-plus-detergent-washing-powder-extra-power-lemon-mint.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/274109_17-tide-plus-detergent-washing-powder-extra-power-lemon-mint.jpg"}], "Brand": "Tide", "Product": "Plus Detergent Washing Powder - Extra Power Lemon & Mint", "Quantity": "6 kg  - Rs 542.80", "Price": "Rs 542.80"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40097083_4-ariel-detergent-washing-powder-matic-front-load.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40097083_4-ariel-detergent-washing-powder-matic-front-load.jpg"}], "Brand": "Ariel ", "Product": "Detergent Washing Powder - Matic Front Load", "Quantity": "2 kg  - Rs 349.30", "Price": "Rs 349.30"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/1200204_3-bb-combo-surf-excel-quick-wash-detergent-powder-1-kg-vim-dishwash-bar-lemon-500-gm.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/1200204_3-bb-combo-surf-excel-quick-wash-detergent-powder-1-kg-vim-dishwash-bar-lemon-500-gm.jpg"}], "Brand": "bb Combo", "Product": "Surf Excel Quick Wash Detergent Powder 1 kg + Vim Dishwash Bar - Lemon 500 gm", "Quantity": "Combo 2 Items", "Price": "Rs 206.28"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40026913_2-patanjali-detergent-powder-superior.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40026913_2-patanjali-detergent-powder-superior.jpg"}], "Brand": "Patanjali", "Product": "Detergent Powder - Superior", "Quantity": "2 kg  - Rs 128.00", "Price": "MRP: Rs 128"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/299469_4-rin-advanced-detergent-powder.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/299469_4-rin-advanced-detergent-powder.jpg"}], "Brand": "Rin", "Product": "Advanced  Detergent Powder", "Quantity": "500 gm Pouch - Rs 35.89", "Price": "Rs 35.89"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/228623_22-surf-excel-matic-front-load-detergent-powder.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/228623_22-surf-excel-matic-front-load-detergent-powder.jpg"}], "Brand": "Surf Excel", "Product": "Matic Front Load Detergent Powder", "Quantity": "2 kg  - Rs 360.00", "Price": "Rs 360"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40026916_1-patanjali-detergent-powder-popular.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40026916_1-patanjali-detergent-powder-popular.jpg"}], "Brand": "Patanjali", "Product": "Detergent Powder - Popular", "Quantity": "5 kg  - Rs 240.00", "Price": "MRP: Rs 240"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40000153_11-surf-excel-liquid-detergent.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40000153_11-surf-excel-liquid-detergent.jpg"}], "Brand": "Surf Excel", "Product": "Liquid Detergent", "Quantity": "1 L  - Rs 184.30", "Price": "Rs 184.30"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/1203895_2-surf-excel-matic-front-load-detergent-powder-2-kg-liquid-matic-front-load-500-ml.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/1203895_2-surf-excel-matic-front-load-detergent-powder-2-kg-liquid-matic-front-load-500-ml.jpg"}], "Brand": "Surf Excel", "Product": "Matic Front Load Detergent Powder 2 kg + Liquid Matic, Front Load 500 ml", "Quantity": "Combo 2 Item", "Price": "Rs 565.61"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40019212_7-tide-naturals-washing-detergent-powder-lemon-chandan.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40019212_7-tide-naturals-washing-detergent-powder-lemon-chandan.jpg"}], "Brand": "Tide", "Product": "Naturals Washing Detergent Powder - Lemon & Chandan", "Quantity": "800 gm Pouch - Rs 51.41", "Price": "Rs 51.41"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/216400_11-ariel-complete-detergent-washing-powder.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/216400_11-ariel-complete-detergent-washing-powder.jpg"}], "Brand": "Ariel ", "Product": "Complete Detergent Washing Powder", "Quantity": "2 kg Get 1 kg Free", "Price": "Rs 448.20"},
+
+]

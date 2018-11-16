@@ -1,0 +1,7 @@
+[{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40134339_2-cinthol-beard-oil.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40134339_2-cinthol-beard-oil.jpg"}], "Brand": "Cinthol", "Product": "Beard Oil", "Quantity": "35 ml ", "Price": "Rs 213.40"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40134341_2-cinthol-beard-wash-fresh-burst.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40134341_2-cinthol-beard-wash-fresh-burst.jpg"}], "Brand": "Cinthol", "Product": "Beard Wash - Fresh Burst", "Quantity": "100 ml ", "Price": "Rs 174.60"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40134342_2-cinthol-beard-wash-sensitive.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40134342_2-cinthol-beard-wash-sensitive.jpg"}], "Brand": "Cinthol", "Product": "Beard Wash - Sensitive", "Quantity": "100 ml ", "Price": "Rs 174.60"},
+
+]

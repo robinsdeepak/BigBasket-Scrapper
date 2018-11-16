@@ -1,0 +1,41 @@
+[{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/126906_6-aashirvaad-atta-whole-wheat.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/126906_6-aashirvaad-atta-whole-wheat.jpg"}], "Brand": "Aashirvaad", "Product": "Atta - Whole Wheat", "Quantity": "10 kg Pouch - Rs 305.00", "Price": "Rs 305"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/1203566_2-bb-combo-aashirvaad-atta-whole-wheat-5-kg-bb-royal-honey-500-gm.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/1203566_2-bb-combo-aashirvaad-atta-whole-wheat-5-kg-bb-royal-honey-500-gm.jpg"}], "Brand": "bb Combo", "Product": "Aashirvaad Atta - Whole Wheat 5 kg + BB Royal Honey 500 gm", "Quantity": "Combo 2 Items", "Price": "Rs 314"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40026890_2-patanjali-whole-wheat-atta.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40026890_2-patanjali-whole-wheat-atta.jpg"}], "Brand": "Patanjali", "Product": "Whole Wheat Atta", "Quantity": "5 kg  - Rs 170.00", "Price": "MRP: Rs 170"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/284422_5-aashirvaad-atta-multigrains.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/284422_5-aashirvaad-atta-multigrains.jpg"}], "Brand": "Aashirvaad", "Product": "Atta - Multigrains", "Quantity": "1 kg Pouch - Rs 57.00", "Price": "MRP: Rs 57"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/270242_3-aashirvaad-atta-select.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/270242_3-aashirvaad-atta-select.jpg"}], "Brand": "Aashirvaad", "Product": "Atta - Select", "Quantity": "1 kg Pouch - Rs 53.00", "Price": "Rs 53"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/1203570_2-bb-combo-aashirvaad-atta-select-5-kg-bb-royal-honey-500-gm.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/1203570_2-bb-combo-aashirvaad-atta-select-5-kg-bb-royal-honey-500-gm.jpg"}], "Brand": "bb Combo", "Product": "Aashirvaad Atta - Select 5 kg + BB Royal Honey 500 gm", "Quantity": "Combo 2 Items", "Price": "Rs 408"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/1203712_1-bb-royal-whole-wheat-atta-1-kg-moong-dal-500-gm-pouch.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/1203712_1-bb-royal-whole-wheat-atta-1-kg-moong-dal-500-gm-pouch.jpg"}], "Brand": "bb Royal", "Product": "Whole Wheat Atta 1 Kg + Moong Dal 500 gm Pouch", "Quantity": "Combo 2 Items", "Price": "Rs 84"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/1203711_1-bb-royal-whole-wheat-atta.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/1203711_1-bb-royal-whole-wheat-atta.jpg"}], "Brand": "bb Royal", "Product": "Whole Wheat Atta", "Quantity": "2x1 kg Multipack - Rs 68.00", "Price": "Rs 68"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40132195_1-patanjali-chakki-atta-whole-wheat-traditional-with-bran.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40132195_1-patanjali-chakki-atta-whole-wheat-traditional-with-bran.jpg"}], "Brand": "Patanjali", "Product": "Chakki Atta - Whole Wheat, Traditional, With Bran", "Quantity": "10 kg  - Rs 330.00", "Price": "MRP: Rs 330"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40079749_8-bb-royal-organic-whole-wheat-atta.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40079749_8-bb-royal-organic-whole-wheat-atta.jpg"}], "Brand": "bb Royal", "Product": "Organic - Whole Wheat Atta", "Quantity": "1 kg  - Rs 49.00", "Price": "Rs 49"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/1205132_1-bb-combo-aashirvaad-atta-multigrains-5kg-india-gate-brown-rice-weight-watcher-jar-1kg.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/1205132_1-bb-combo-aashirvaad-atta-multigrains-5kg-india-gate-brown-rice-weight-watcher-jar-1kg.jpg"}], "Brand": "bb Combo", "Product": "Aashirvaad Atta - Multigrains 5kg + India Gate Brown Rice Weight Watcher Jar 1kg", "Quantity": "Combo 2 items", "Price": "Rs 410.95"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40077103_1-aashirvaad-atta-sugar-release-control.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40077103_1-aashirvaad-atta-sugar-release-control.jpg"}], "Brand": "Aashirvaad", "Product": "Atta - Sugar Release Control", "Quantity": "5 kg  - Rs 270.00", "Price": "Rs 270"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/1204957_1-bb-royal-whole-wheat-atta-5kg-rice-basmati-everyday-5kg.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/1204957_1-bb-royal-whole-wheat-atta-5kg-rice-basmati-everyday-5kg.jpg"}], "Brand": "bb Royal", "Product": "Whole Wheat Atta 5kg + Rice - Basmati, Everyday 5kg", "Quantity": "Combo 2 Items", "Price": "Rs 454"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/1203565_2-bb-combo-aashirvaad-atta-whole-wheat-10-kg-bb-royal-honey-1-kg.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/1203565_2-bb-combo-aashirvaad-atta-whole-wheat-10-kg-bb-royal-honey-1-kg.jpg"}], "Brand": "bb Combo", "Product": "Aashirvaad Atta - Whole Wheat 10 kg + BB Royal Honey 1 kg", "Quantity": "Combo 2 Items", "Price": "Rs 504"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40000094_5-nature-fresh-atta-chakki-fresh.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40000094_5-nature-fresh-atta-chakki-fresh.jpg"}], "Brand": "Nature Fresh", "Product": "Atta - Chakki Fresh", "Quantity": "5 kg Bag - Rs 159.00", "Price": "Rs 159"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/1203706_1-bb-combo-bb-royal-atta-5kg-fortune-sunflower-refined-oil-910-gm-bb-royal-toor-dal-1kg.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/1203706_1-bb-combo-bb-royal-atta-5kg-fortune-sunflower-refined-oil-910-gm-bb-royal-toor-dal-1kg.jpg"}], "Brand": "bb Combo", "Product": "Bb Royal Atta 5Kg + Fortune Sunflower Refined Oil 910 gm + Bb Royal Toor Dal 1Kg", "Quantity": "Combo 3 Items", "Price": "Rs 367"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/1203568_2-bb-combo-aashirvaad-atta-multigrains-5-kg-bb-royal-honey-1-kg.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/1203568_2-bb-combo-aashirvaad-atta-multigrains-5-kg-bb-royal-honey-1-kg.jpg"}], "Brand": "bb Combo", "Product": "Aashirvaad Atta - Multigrains 5 kg + BB Royal Honey 1 kg", "Quantity": "Combo 2 Items", "Price": "Rs 479"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40127918_1-patanjali-chakki-atta-whole-wheat-sarvgun-sampann.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40127918_1-patanjali-chakki-atta-whole-wheat-sarvgun-sampann.jpg"}], "Brand": "Patanjali", "Product": "Chakki Atta - Whole Wheat, Sarvgun Sampann", "Quantity": "10 kg  - Rs 320.00", "Price": "MRP: Rs 320"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/20005217_4-daawat-devaaya-mp-wheat-atta.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/20005217_4-daawat-devaaya-mp-wheat-atta.jpg"}], "Brand": "Daawat ", "Product": "Devaaya Mp - Wheat Atta", "Quantity": "5 kg ", "Price": "Rs 155"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/1204956_1-bb-royal-whole-wheat-atta-10kg-rice-basmati-everyday-5kg.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/1204956_1-bb-royal-whole-wheat-atta-10kg-rice-basmati-everyday-5kg.jpg"}], "Brand": "bb Royal", "Product": "Whole Wheat Atta 10kg + Rice - Basmati, Everyday 5kg", "Quantity": "Combo 2 Items", "Price": "Rs 593"},
+
+]

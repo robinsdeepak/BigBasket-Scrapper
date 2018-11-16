@@ -1,0 +1,41 @@
+[{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40072465_6-bb-royal-organic-brown-chanachanna.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40072465_6-bb-royal-organic-brown-chanachanna.jpg"}], "Brand": "bb Royal", "Product": "Organic - Brown Chana/Channa", "Quantity": "500 gm  - Rs 50.00", "Price": "Rs 50"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/1203571_2-bb-combo-bb-royal-organic-brown-chanachanna-500-gm-fresho-organic-cow-ghee-150-ml.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/1203571_2-bb-combo-bb-royal-organic-brown-chanachanna-500-gm-fresho-organic-cow-ghee-150-ml.jpg"}], "Brand": "bb Combo", "Product": "BB Royal Organic - Brown Chana/Channa 500 gm + Fresho Organic Cow Ghee 150 ml", "Quantity": "Combo 2 Items", "Price": "Rs 175"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40072468_6-bb-royal-organic-chana-dalchanna.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40072468_6-bb-royal-organic-chana-dalchanna.jpg"}], "Brand": "bb Royal", "Product": "Organic - Chana Dal/Channa", "Quantity": "1 kg  - Rs 101.00", "Price": "Rs 101"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/1203573_2-bb-combo-bb-royal-organic-chana-dalchanna-500-gm-fresho-organic-cow-ghee-150-ml.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/1203573_2-bb-combo-bb-royal-organic-chana-dalchanna-500-gm-fresho-organic-cow-ghee-150-ml.jpg"}], "Brand": "bb Combo", "Product": "BB Royal Organic - Chana Dal/Channa 500 gm + Fresho Organic Cow Ghee 150 ml", "Quantity": "Combo 2 Items", "Price": "Rs 177"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40091135_3-bb-royal-organic-brown-sugar.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40091135_3-bb-royal-organic-brown-sugar.jpg"}], "Brand": "bb Royal", "Product": "Organic - Brown Sugar", "Quantity": "2 kg  - Rs 160.00", "Price": "Rs 160"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/1203575_2-bb-combo-bb-royal-organic-brown-sugar-1-kg-fresho-organic-cow-ghee-150-ml.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/1203575_2-bb-combo-bb-royal-organic-brown-sugar-1-kg-fresho-organic-cow-ghee-150-ml.jpg"}], "Brand": "bb Combo", "Product": "BB Royal Organic - Brown Sugar 1 kg + Fresho Organic Cow Ghee 150 ml", "Quantity": "Combo 2 Items", "Price": "Rs 208"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40072482_7-bb-royal-organic-powder-jaggery.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40072482_7-bb-royal-organic-powder-jaggery.jpg"}], "Brand": "bb Royal", "Product": "Organic - Powder Jaggery", "Quantity": "500 gm  - Rs 46.00", "Price": "Rs 46"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40112227_11-fresho-organic-cow-ghee.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40112227_11-fresho-organic-cow-ghee.jpg"}], "Brand": "Fresho Organic", "Product": "Cow Ghee", "Quantity": "150 ml  - Rs125.00", "Price": "Rs 125"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40112228_8-fresho-organic-cow-ghee.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40112228_8-fresho-organic-cow-ghee.jpg"}], "Brand": "Fresho Organic", "Product": "Cow Ghee", "Quantity": "500 ml  - Rs299.00", "Price": "Rs 299"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40112229_8-fresho-organic-cow-ghee.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40112229_8-fresho-organic-cow-ghee.jpg"}], "Brand": "Fresho Organic", "Product": "Cow Ghee", "Quantity": "1 ltr ", "Price": "Rs 569"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40072492_7-bb-royal-organic-sugar.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40072492_7-bb-royal-organic-sugar.jpg"}], "Brand": "bb Royal", "Product": "Organic - Sugar", "Quantity": "1 kg  - Rs 81.00", "Price": "Rs 81"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40114160_2-bb-royal-organic-ajwain.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40114160_2-bb-royal-organic-ajwain.jpg"}], "Brand": "bb Royal", "Product": "Organic - Ajwain", "Quantity": "50 gm ", "Price": "Rs 19"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40094688_2-bb-royal-organic-amla-powder.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40094688_2-bb-royal-organic-amla-powder.jpg"}], "Brand": "bb Royal", "Product": "Organic - Amla Powder", "Quantity": "100 gm ", "Price": "Rs 35"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40088187_3-bb-royal-organic-cashew-split.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40088187_3-bb-royal-organic-cashew-split.jpg"}], "Brand": "bb Royal", "Product": "Organic - Cashew Split", "Quantity": "100 gm ", "Price": "Rs 135"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40092919_3-bb-royal-organic-cashewkaju-whole-bold.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40092919_3-bb-royal-organic-cashewkaju-whole-bold.jpg"}], "Brand": "bb Royal", "Product": "Organic - Cashew/Kaju Whole (Bold)", "Quantity": "200 gm  - Rs 299.00", "Price": "Rs 299"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40092211_2-bb-royal-organic-misri-wholesugar-candy.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40092211_2-bb-royal-organic-misri-wholesugar-candy.jpg"}], "Brand": "bb Royal", "Product": "Organic - Misri Whole/Sugar Candy", "Quantity": "100 gm ", "Price": "Rs 16"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40109378_3-bb-royal-organic-moong-dal.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40109378_3-bb-royal-organic-moong-dal.jpg"}], "Brand": "bb Royal", "Product": "Organic - Moong Dal", "Quantity": "2 kg  - Rs 225.00", "Price": "Rs 225"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40100576_10-bb-royal-organic-moth-dal.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40100576_10-bb-royal-organic-moth-dal.jpg"}], "Brand": "bb Royal", "Product": "Organic - Moth dal", "Quantity": "500 gm ", "Price": "Rs 55"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40088188_3-bb-royal-organic-mustardrai-big.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40088188_3-bb-royal-organic-mustardrai-big.jpg"}], "Brand": "bb Royal", "Product": "Organic - Mustard/Rai Big", "Quantity": "100 gm ", "Price": "Rs 15"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40088535_4-bb-royal-organic-nutmegjayaphal.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40088535_4-bb-royal-organic-nutmegjayaphal.jpg"}], "Brand": "bb Royal", "Product": "Organic - Nutmeg/Jayaphal", "Quantity": "20 gm ", "Price": "Rs 30"},
+
+]

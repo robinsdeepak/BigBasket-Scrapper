@@ -1,0 +1,19 @@
+[{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40005412_2-yummiez-chicken-sausages-cheese-onion.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40005412_2-yummiez-chicken-sausages-cheese-onion.jpg"}], "Brand": "Yummiez", "Product": "Chicken Sausages - Cheese & Onion", "Quantity": "250 gm Pouch", "Price": "Rs 145.50"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40049602_1-venkys-chicken-breakfast-sausages.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40049602_1-venkys-chicken-breakfast-sausages.jpg"}], "Brand": "Venkys", "Product": "Chicken - Breakfast Sausages", "Quantity": "500 gm ", "Price": "Rs 184.30"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40049532_2-meatzza-chicken-salami-masala-slice.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40049532_2-meatzza-chicken-salami-masala-slice.jpg"}], "Brand": "Meatzza", "Product": "Chicken - Salami Masala Slice", "Quantity": "250 gm ", "Price": "Rs 126.10"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40055093_2-godrej-yummiez-chicken-plain-sausages.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40055093_2-godrej-yummiez-chicken-plain-sausages.jpg"}], "Brand": "Godrej Yummiez", "Product": "Chicken - Plain Sausages", "Quantity": "250 gm ", "Price": "Rs 121.25"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/800306329_2-venkys-chicken-cocktail-sausages.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/800306329_2-venkys-chicken-cocktail-sausages.jpg"}], "Brand": "Venkys", "Product": "Chicken - Cocktail Sausages", "Quantity": "500 gm ", "Price": "Rs 271.60"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40093313_4-venkys-chicken-sausages.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40093313_4-venkys-chicken-sausages.jpg"}], "Brand": "Venkys", "Product": "Chicken - Sausages", "Quantity": "500 gm ", "Price": "Rs 261.90"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40049600_1-venkys-chicken-cheese-and-onion-sausages.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40049600_1-venkys-chicken-cheese-and-onion-sausages.jpg"}], "Brand": "Venkys", "Product": "Chicken - Cheese And Onion Sausages", "Quantity": "500 gm ", "Price": "Rs 266.75"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40055092_2-godrej-yummiez-chicken-plain-salami.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40055092_2-godrej-yummiez-chicken-plain-salami.jpg"}], "Brand": "Godrej Yummiez", "Product": "Chicken - Plain Salami", "Quantity": "250 gm ", "Price": "Rs 116.40"},
+
+{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40055090_2-godrej-yummiez-chicken-pepper-sausages.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40055090_2-godrej-yummiez-chicken-pepper-sausages.jpg"}], "Brand": "Godrej Yummiez", "Product": "Chicken - Pepper Sausages", "Quantity": "250 gm ", "Price": "Rs 130.95"},
+
+]
