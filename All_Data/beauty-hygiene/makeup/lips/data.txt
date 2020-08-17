@@ -1,3 +1,0 @@
-[{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/30007123_3-lakme-lip-gloss-absolute-plump-shine.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/30007123_3-lakme-lip-gloss-absolute-plump-shine.jpg"}], "Brand": "Lakme", "Product": "Lip Gloss - Absolute Plump & Shine", "Quantity": "3 ml Beige Shine", "Price": "MRP: Rs 475"},
-
-]

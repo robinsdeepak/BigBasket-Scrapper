@@ -1,9 +1,0 @@
-[{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/1202863_1-bb-combo-europaea-cow-milk-35-fat-1-ltr-red-label-tea-500-gm.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/1202863_1-bb-combo-europaea-cow-milk-35-fat-1-ltr-red-label-tea-500-gm.jpg"}], "Brand": "bb Combo", "Product": "Europaea Cow Milk - 3.5% Fat 1 ltr + Red Label Tea 500 gm", "Quantity": "Combo 2 Items", "Price": "Rs 301.67"},
-
-{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40098347_3-europaea-cow-milk-35-fat.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40098347_3-europaea-cow-milk-35-fat.jpg"}], "Brand": "Europaea", "Product": "Cow Milk - 3.5% Fat", "Quantity": "1 ltr  - Rs122.22", "Price": "Rs 122.22"},
-
-{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/275689_1-soyfresh-soya-milk.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/275689_1-soyfresh-soya-milk.jpg"}], "Brand": "Soyfresh", "Product": "Soya Milk", "Quantity": "250 ml Carton - Rs 58.20", "Price": "Rs 58.20"},
-
-{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/30010183_2-johns-mozzarella-pizza.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/30010183_2-johns-mozzarella-pizza.jpg"}], "Brand": "John's", "Product": "Mozzarella - Pizza", "Quantity": "200 gm Pouch", "Price": "Rs 179.45"},
-
-]

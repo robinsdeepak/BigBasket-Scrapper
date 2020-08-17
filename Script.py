@@ -5,91 +5,117 @@ import shutil
 import time
 import os
 import json
+import re
+
+def start_driver(headless=True):
+    if not headless:
+        return webdriver.Chrome()
+    chrome_options = webdriver.ChromeOptions()
+    chrome_options.add_argument('--headless')
+    chrome_options.add_argument('--no-sandbox')
+    return webdriver.Chrome(options=chrome_options)
 
 
-# driver = webdriver.Chrome() # With Head
-# Headless
-chrome_options = webdriver.ChromeOptions()
-chrome_options.add_argument('--headless')
-chrome_options.add_argument('--no-sandbox')
-driver = webdriver.Chrome(options=chrome_options)
+def save_image(image_link, save_dir):
+    image_raw = requests.get(image_link, stream=True)
+    filename = os.path.basename(image_link)
+    img_dir = os.path.join(save_dir, filename)
+    with open(img_dir, "wb") as out_file:
+        shutil.copyfileobj(image_raw.raw, out_file)
 
-links = open('links.txt', 'r')
-url_list = links.readlines()
-# print(url_list)
-# exit()
-for url in url_list[15:]:
 
-    driver.get(url)
-    # driver.get(url.replace('\n', ''))
-    time.sleep(8)   # 2 Sec for ssh
-    while True:
-        try:
-            driver.find_element_by_xpath("//button[@ng-click='vm.pagginator.showmorepage()']").click()
-            time.sleep(2)
-            print("Clicked Successfully")
-        except:
-            break
-    html = driver.execute_script("return document.documentElement.outerHTML")
-    soup = bs(html, 'html.parser')
-    products = soup.findAll("div", {"qa": "product"})
-    # print(len(products))
-    directory = 'All_Data\\' + url.replace('https://www.bigbasket.com/pc/', '').replace('/?nc=bt\n', '').replace('/?nc=nb\n', '').replace('/?nc=cs\n', '').replace('/', '\\')
-    # print(directory)
-    try:
-        os.makedirs(directory+'\\images\\large')
-    except FileExistsError:
-        pass
-    try:
-        os.makedirs(directory + '\\images\\small')
-    except FileExistsError:
-        pass
-    # d_dir = os.path.join(directory, 'data')     # Data Directory
-    data = open(os.path.join(directory, 'data.txt'), "w")
-    data.write("[")
-    # print(directory)
-    for product in products:
-        # break
-        img = product.find("img")['src']
-        image_small = img.replace('/media/uploads/p/mm/', '/media/uploads/p/s/')
-        image_large = img.replace('/media/uploads/p/s/', '/media/uploads/p/l/').replace('/media/uploads/p/mm/', '/media/uploads/p/l/')
-        del img
+def get_product_data(product, raw_data_file):
+    img = product.find("img")['src']
+    image_small = img.replace('/media/uploads/p/mm/', '/media/uploads/p/s/')
+    image_large = img.replace('/media/uploads/p/s/', '/media/uploads/p/l/'). \
+        replace('/media/uploads/p/mm/', '/media/uploads/p/l/')
 
-        Brand = product.find("div", {"qa": "product_name"}).find("h6").text
-        Product = product.find("div", {"qa": "product_name"}).find("a").text
-        Quantity = product.find("span", {"data-bind": "label"}).text
-        Price = product.find("span", {"class": "discnt-price"}).text
+    Brand = product.find("div", {"qa": "product_name"}).find("h6").text
+    Product = product.find("div", {"qa": "product_name"}).find("a").text
+    Quantity = product.find("span", {"data-bind": "label"}).text
+    Price = product.find("span", {"class": "discnt-price"}).text
 
-        # Writing data jo json file
-        data.write(json.dumps({
-            'image': [{'small': image_small}, {'large': image_large}],
+    with open(raw_data_file, "a") as f:
+        data = json.dumps({
             'Brand': Brand,
             'Product': Product,
             'Quantity': Quantity,
-            'Price': Price
-        })+',\n\n')
+            'Price': Price,
+            'image_small': image_small,
+            'image_large': image_large,
+        })
+        f.write(data + "\n")
 
-        # copy image files
-        try:
-            image_small_raw = requests.get(image_small, stream=True)
-            filename = os.path.basename(image_small)
-            img_dir = os.path.join(directory, "images\\small", filename)
-            with open(img_dir, "wb") as out_file:
-                shutil.copyfileobj(image_small_raw.raw, out_file)
-            del image_small_raw
+    try:
+        save_image(image_small, os.path.join(OUTPUT_DIR, "images", "small"))
+        save_image(image_large, os.path.join(OUTPUT_DIR, "images", "large"))
+    except Exception as e:
+        print(e)
 
-            image_large_raw = requests.get(image_large, stream=True)
-            time.sleep(1)
-            filename = os.path.basename(image_large)
-            img_dir = os.path.join(directory, "images\\large", filename)
-            with open(img_dir, "wb") as out_file:
-                shutil.copyfileobj(image_large_raw.raw, out_file)
-            del image_large_raw
-        except Exception as e:
-            print(e)
-        else:
-            print("Successfully downloaded data from category url\n", url)
-    data.write("]")
-    data.close()
-driver.quit()
-links.close()
+
+def dump_json(raw_data_file, out_data_file):
+    with open(raw_data_file) as f:
+        data = f.read().strip().split("\n")
+    js_data = list(map(lambda x: json.loads(x), data))
+
+    with open(out_data_file, "w") as f:
+        json.dump(js_data, f, indent=2)
+
+
+if __name__ == "__main__":
+    driver = start_driver()
+
+    DEBUG = True
+    OUTPUT_DIR = "Output"
+    out_data_file = os.path.join(OUTPUT_DIR, "data.json")
+    delay = 8
+
+    with open('links.txt', 'r') as f:
+        url_list = f.read().split("\n")
+
+    if not os.path.exists(OUTPUT_DIR):
+        os.makedirs(OUTPUT_DIR)
+    raw_data_file = os.path.join(OUTPUT_DIR, "raw_data.txt")
+    with open(raw_data_file, "w") as f:
+        pass
+
+    for url in url_list:
+        driver.get(url)
+        print("Starting Download from: {}".format(url))
+
+        time.sleep(delay)
+        while True:
+            try:
+                driver.find_element_by_xpath("//button[@ng-click='vm.pagginator.showmorepage()']").click()
+                time.sleep(2)
+                # if DEBUG:
+                #     print("Clicked Successfully")
+            except Exception as e:
+                # if DEBUG:
+                #     print(e)
+                break
+        html = driver.execute_script("return document.documentElement.outerHTML")
+        soup = bs(html, 'html.parser')
+        products = soup.findAll("div", {"qa": "product"})
+
+        rel_url = re.sub(r"/?.*", "", url)
+        rel_url = rel_url.lstrip('https://www.bigbasket.com/pc/')
+
+        ds_img = os.path.join(OUTPUT_DIR, 'images', 'large')
+        dl_img = os.path.join(OUTPUT_DIR, 'images', 'small')
+
+        if not os.path.exists(ds_img):
+            os.makedirs(ds_img)
+        if not os.path.exists(dl_img):
+            os.makedirs(dl_img)
+
+        for product in products:
+            get_product_data(product, raw_data_file)
+
+        print("Downloaded all data from: ".format(url))
+
+    print("Download finished from all the links.")
+    dump_json(raw_data_file, out_data_file)
+    print("JSON file saved as {}".format(raw_data_file))
+
+    driver.quit()

@@ -1,5 +1,0 @@
-[{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40094199_2-mentos-chewy-dragree-cola-flavour.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40094199_2-mentos-chewy-dragree-cola-flavour.jpg"}], "Brand": "Mentos", "Product": "Chewy Dragree - Cola Flavour", "Quantity": "14 pcs ", "Price": "Rs 14.55"},
-
-{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40094197_2-mentos-chewy-dragree-mint-flavour.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40094197_2-mentos-chewy-dragree-mint-flavour.jpg"}], "Brand": "Mentos", "Product": "Chewy Dragree - Mint Flavour", "Quantity": "14 pcs ", "Price": "MRP: Rs 15"},
-
-]

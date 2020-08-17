@@ -1,5 +1,0 @@
-[{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40022475_3-mee-mee-baby-laundary-detergent.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40022475_3-mee-mee-baby-laundary-detergent.jpg"}], "Brand": "Mee Mee", "Product": "Baby Laundary Detergent", "Quantity": "1.2 ltr Pouch", "Price": "MRP: Rs 499"},
-
-{"image": [{"small": "https://www.bigbasket.com/media/uploads/p/s/40022477_5-mee-mee-baby-laundary-detergent.jpg"}, {"large": "https://www.bigbasket.com/media/uploads/p/l/40022477_5-mee-mee-baby-laundary-detergent.jpg"}], "Brand": "Mee Mee", "Product": "Baby Laundary Detergent", "Quantity": "300 ml Bottle - Rs 249.00", "Price": "MRP: Rs 249"},
-
-]
