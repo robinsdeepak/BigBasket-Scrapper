@@ -1,4 +1,4 @@
-# WebScraping
+# BigBasket-Scrapper
 
 * A script made for downloading product information from BigBasket.com. 
 * It donwloads picture of a product in both low and high dimension respectively for thumbnail and view 
